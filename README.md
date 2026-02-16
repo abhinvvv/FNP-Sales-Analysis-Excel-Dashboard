@@ -1,5 +1,3 @@
-# FNP-Sales-Analysis-Excel-Dashboard
-Interactive Excel sales dashboard analyzing revenue trends, product performance, seasonality and customer ordering behavior using Pivot Tables and Data Model relationships.
 # FNP Sales Analysis Dashboard (Excel)
 
 Interactive sales dashboard built using Excel Pivot Tables, Data Model relationships and slicers to analyze business performance.
